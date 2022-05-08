@@ -1,0 +1,23 @@
+Estrutura:
+https://3dlab.com.br/pla-tudo-o-que-voce-precisa-saber-sobre-o-filamento-pla/#:~:text=Confira!-,O%20que%20%C3%A9%20material%20PLA%3F,sacolas%20pl%C3%A1sticas%20e%20copos%20descart%C3%A1veis.
+https://www.fazfacil.com.br/artesanato/isopor-poliestireno-expandido/
+https://3dlab.com.br/propriedades-dos-materiais-para-impressora-3d/
+
+Fluxograma:
+https://miro.com/signup/
+https://blog.zeev.it/5-passos-para-criacao-de-um-fluxograma/
+
+Dist. com acelerômetro:
+https://mundoprojetado.com.br/descobrindo-distancia-com-acelerometro/
+https://camilasoares.wordpress.com/2009/05/10/como-medir-velocidade-e-deslocamento-a-partir-de-um-acelerometro/
+
+OBSAT:
+https://github.com/OBSAT-MCTI/OBSAT-MCTI
+https://www.pionlabs.com.br/cubesat
+https://classroom.pionlabs.com.br/
+https://github.com/pion-labs/pion-educational-kits/wiki
+https://store.pionlabs.com.br/produtos/pion-cubesat-educacional/
+https://github.com/PhPires13/OBSAT
+https://docs.google.com/document/d/1-d1EqgE95tJGCelbXeXz5gKqhQ6AD6esxFVqhIR47pg/edit
+https://docs.google.com/document/d/1nHhAi9Lo4q9DA5dfIcxFDSQpwhnsoIS-14mDQZCZyWI/edit#
+https://www.obsat.org.br/inscricoes/
