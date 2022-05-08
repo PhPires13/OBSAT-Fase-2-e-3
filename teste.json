@@ -1,0 +1,40 @@
+[
+{
+	“equipe”: 270,
+	"bateria": 89,
+	"temperatura": 15.73,
+	"pressao": 9257.94,
+	"giroscopio": [0,-0.1,0],
+	"acelerometro": [0,0.1,-10.3],
+	"magnetometro": [-8.5, -19.4, -40.7],
+	"payload": {
+		"nivelCO2": 411,
+		"umidade": 70.25,
+		"luminosidade": 7,
+		"temperatura": 15.73,
+		"variacaoCO2": 411,
+		"variacaoUmidade": 70.25,
+		"variacaoLuminosidade": 7,
+		"variacaoTemperatura": 15.73,
+	}
+},
+{
+	“equipe”: 270,
+	"bateria": 88,
+	"temperatura": 15.56,
+	"pressao": 9260.87,
+	"giroscopio": [0.1,0,0],
+	"acelerometro": [0.1,0,-10.3],
+	"magnetometro": [-15.5, -10.3, -62.8],
+	"payload": {
+		"nivelCO2": 408,
+		"umidade": 71.50,
+		"luminosidade": 8,
+		"temperatura": 15.82,
+		"variacaoCO2": -3,
+		"variacaoUmidade": 1.25,
+		"variacaoLuminosidade": 1,
+		"variacaoTemperatura": 0.9,
+	}
+},
+]
