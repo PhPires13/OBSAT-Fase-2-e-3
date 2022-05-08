@@ -1,0 +1,15 @@
+{
+	“equipe”: 270,
+	"bateria": 89,
+	"temperatura": 15.73,
+	"pressao": 9257.94,
+	"giroscopio": [0,-0.1,0],
+	"acelerometro": [0,0.1,-10.3],
+	"magnetometro": [-8.5, -19.4, -40.7],
+	"payload": {
+		"nivelCO2": 411,
+		"umidade": 70.25,
+		"luminosidade": 7,
+		"temperatura": 15.73,
+	}
+}

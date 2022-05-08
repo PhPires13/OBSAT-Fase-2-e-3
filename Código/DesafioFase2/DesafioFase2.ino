@@ -27,5 +27,12 @@ void setup(){
 void loop() {
   // put your main code here, to run repeatedly:
 
-  
+  float luminosidade = cubeSat.getLuminosity();
+  if (luminosidade <= 1) {
+    cubeSat.setRGB(RED);
+  } else if (luminosidade > 1 && luminosidade < 100) {
+    cubeSat.setRGB(GREEN);
+  } else {
+    cubeSat.setRGB(BLUE);
+  }
 }
